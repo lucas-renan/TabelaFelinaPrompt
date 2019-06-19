@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1560969527 source:c:\users\renan\desktop\tf\tabela felina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+	"valores_felinos.h"
+	"lista_felina.h"
+	<locale.h>
+
+1560969632 c:\users\renan\desktop\tf\tabela felina\auxiliares.h
+	<ctype.h>
+
+1560969371 c:\users\renan\desktop\tf\tabela felina\valores_felinos.h
+
+1560969862 c:\users\renan\desktop\tf\tabela felina\lista_felina.h
+
